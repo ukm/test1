@@ -1,4 +1,4 @@
- Datentr„ger in Laufwerk C: ist W10-sys
+ Datentraeger in Laufwerk C: ist W10-sys
  Volumeseriennummer: 452E-C2C0
 
  Verzeichnis von C:\Users\ukm\git-test
