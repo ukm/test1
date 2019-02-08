@@ -1,0 +1,10 @@
+ Datentr„ger in Laufwerk C: ist W10-sys
+ Volumeseriennummer: 452E-C2C0
+
+ Verzeichnis von C:\Users\ukm\git-test
+
+08.02.2019  13:52    <DIR>          .
+08.02.2019  13:52    <DIR>          ..
+08.02.2019  13:52                 0 test1.txt
+               1 Datei(en),              0 Bytes
+               2 Verzeichnis(se), 69.554.761.728 Bytes frei
