@@ -1,10 +1,108 @@
- Datentraeger in Laufwerk C: ist W10-sys
- Volumeseriennummer: 452E-C2C0
 
- Verzeichnis von C:\Users\ukm\git-test
-
-08.02.2019  13:52    <DIR>          .
-08.02.2019  13:52    <DIR>          ..
 08.02.2019  13:52                 0 test1.txt
-               1 Datei(en),              0 Bytes
-               2 Verzeichnis(se), 69.554.761.728 Bytes frei
+             
+Git and GitHub Beginner Tutorial 3 - Getting started - Install Git windows
+
+https://www.youtube.com/watch?v=sBTAkHOxvOk&index=3&list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG
+
+Automation Step by Step - Raghav Pal
+Am 13.10.2016 veröffentlicht
+
+Git and GitHub Beginner Tutorial 3 - Getting started - Install Git (windows)
+========================================================
+
+Today we will learn
+———————————
+
+1. How to install Git on windows
+2. Adding project/files to git for tracking
+3. Git commands
+4. Pushing project to remote repository(github)
+_______________________________
+
+Step 1 : check if git is already installed
+             git --version
+
+Step 2 : download and install git
+
+Step 3 : add your project to git
+
+Step 4 : commands
+
+   git config --global user.email "yourGitHub@email.com"
+   git config --global user.name "yourGitHubusername"
+
+  - git init
+  - git status
+  - git add
+  - git commit -m “…..”
+  - git remote add origin https://github.com/RaghavAutomation/R...
+  - git push -u origin master
+  - git log
+  - git —help
+
+Step 5 : adding project to remote repository (github)
+
+
+________ ONLINE COURSES TO LEARN ________
+
+Visit - http://automationstepbystep.com/
+
+------------ UI TESTING ------------
+Selenium Beginners - https://bit.ly/2MGRS8K
+Selenium Java Framework from Scratch - https://bit.ly/2N9xvR6
+Selenium Python - https://bit.ly/2oyMp5x
+Selenium Tips - https://bit.ly/2owxc50
+Selenium Builder - https://bit.ly/2MKNtlq
+Katalon Studio - https://bit.ly/2wARFdi
+Robot Framework - https://bit.ly/2Px6Ue9
+
+------------ API TESTING ------------
+Web Services (API) - https://bit.ly/2MGafL7
+SoapUI - https://bit.ly/2MGahmd
+Postman - https://bit.ly/2wz8LrW
+General - https://bit.ly/2PYdwmV
+
+------------ MOBILE TESTING ------------
+Mobile Playlist - https://bit.ly/2PxpeUv
+
+------------ CI | CD | DEVOPS ------------
+Jenkins Beginner - https://bit.ly/2MIn8EC
+Jenkins Tips & Trick - https://bit.ly/2LRt6xC
+Docker - https://bit.ly/2MInnzx
+
+------------ VERSION CONTROL SYSTEM ------------
+Git & GitHub - https://bit.ly/2Q1pagY
+
+------------ PERFORMANCE TESTING ------------
+JMeter Beginner - https://bit.ly/2oBbtIU
+JMeter Intermediate - https://bit.ly/2oziNVB
+JMeter Advanced - https://bit.ly/2Q22Y6a
+JMeter Tips & Tricks - https://bit.ly/2NOfWD2
+Performance Testing - https://bit.ly/2wEXbLS
+
+------------ JAVA ------------
+Java Beginners - https://bit.ly/2PVUcXs
+Java Tips & Tricks - https://bit.ly/2CdcDnJ
+
+------------ MAVEN ------------
+Maven - https://bit.ly/2NJdDRS
+
+------------ OTHERS ------------
+Redis- https://bit.ly/2N9jyCG
+Misc - https://bit.ly/2Q2q5xQ
+Tools & Tips - https://bit.ly/2oBfwoR
+QnA Friday- https://bit.ly/2NgwGpw
+Sunday Special - https://bit.ly/2wB23BO
+
+Ask Raghav- https://bit.ly/2CoJGWf
+Interviews - https://bit.ly/2NIPPxk
+All Playlists - https://bit.ly/2LSiezA
+
+
+------------ Follow ------------
+Facebook - https://www.facebook.com/automationst...
+Twitter - https://twitter.com/automationsbs
+Youtube - http://youtube.com/automationstepbystep
+Kategorie
+Bildung
