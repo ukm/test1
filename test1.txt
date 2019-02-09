@@ -1,4 +1,4 @@
-
+﻿
 08.02.2019  13:52                 0 test1.txt
              
 Git and GitHub Beginner Tutorial 3 - Getting started - Install Git windows
@@ -58,7 +58,42 @@ Step 4 : Delete branch git branch -d “branch name”
          — delete from local 
          git push origin —delete “branch name” 
          — delete from remote 
+Automation Step by Step - Raghav Pal
+Am 30.08.2016 veröffentlicht
+Jenkins Beginner Tutorial 1 - Introduction and Getting Started
+==================================================
 
+Jenkins 
+https://www.youtube.com/watch?v=89yWXXIOisk
+
+  - java application
+  - used for continuous integration and continuous delivery
+
+
+Step 1 : Download Jenkins war file - https://jenkins.io/
+
+Step 2 : Place the war file into any location on your system
+
+Step 3 : goto command prompt (windows) | terminal (mac)
+   - goto folder where jenkins.war is
+   - java -jar jenkins.war
+
+Step 4 : goto browser - http://localhost:8080 (Jenkins window should show up)
+
+Step 5 : install required plugins
+
+Step 6 : get started with Jenkins 
+
+____________________________________________________________
+
+To see hidden files/folders on mac:
+1. Exit Finder
+2. On terminal - defaults write com.apple.finder AppleShowAllFiles TRUE
+3. Press option/alt - right click finder - relaunch
+
+
+Reference Picture : 
+https://www.google.co.in/imgres?imgur...
 
 ________ ONLINE COURSES TO LEARN ________
 
