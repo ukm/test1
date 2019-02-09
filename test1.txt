@@ -6,13 +6,13 @@ Git and GitHub Beginner Tutorial 3 - Getting started - Install Git windows
 https://www.youtube.com/watch?v=sBTAkHOxvOk&index=3&list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG
 
 Automation Step by Step - Raghav Pal
-Am 13.10.2016 ver�ffentlicht
+Am 13.10.2016 veröffentlicht
 
 Git and GitHub Beginner Tutorial 3 - Getting started - Install Git (windows)
 ========================================================
 
 Today we will learn
-�����������
+———————————
 
 1. How to install Git on windows
 2. Adding project/files to git for tracking
@@ -35,13 +35,29 @@ Step 4 : commands
   - git init
   - git status
   - git add
-  - git commit -m ��..�
+  - git commit -m “…..”
   - git remote add origin https://github.com/RaghavAutomation/R...
   - git push -u origin master
   - git log
-  - git �help
+  - git —help
 
 Step 5 : adding project to remote repository (github)
+
+Git and GitHub Beginner Tutorial 5 - Branching and Merging ================================================ 
+Today we will learn ——————————— 
+1. What are branches 
+2. How to create branch 
+3. How to checkout branch 
+4. How to merge branch to master 
+5. How to delete branch (local and remote) _________________________________________ 
+
+Step 1 : Create branch git branch “branch name” 
+Step 2 : Checkout branch git checkout “branch name” 
+Step 3 : Merge new branch in master branch git merge “branch name” 
+Step 4 : Delete branch git branch -d “branch name” 
+         — delete from local 
+         git push origin —delete “branch name” 
+         — delete from remote 
 
 
 ________ ONLINE COURSES TO LEARN ________
